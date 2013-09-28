@@ -43,6 +43,6 @@ end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
-gem 'friendly_id', path: '/Users/norman/work/friendly_id'
+gem 'friendly_id', github: 'norman/friendly_id'
 gem 'kaminari'
 gem 'ffaker'

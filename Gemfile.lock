@@ -1,5 +1,6 @@
-PATH
-  remote: /Users/norman/work/friendly_id
+GIT
+  remote: git://github.com/norman/friendly_id.git
+  revision: 272dc4e2bf9a741caea7c9ee9208a2e7cab11be0
   specs:
     friendly_id (5.0.0.rc2)
       activerecord (~> 4.0.0)
